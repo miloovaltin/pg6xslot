@@ -1,0 +1,16 @@
+{
+"name": "pg6xslot",
+"theme": "pg6x slot",
+"version": "9.4.9",
+"description": "pg6x slot สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"pg6x slot",
+"pg6x slot เครดิตฟรี",
+"pg6x slot ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/pg6xslot",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
